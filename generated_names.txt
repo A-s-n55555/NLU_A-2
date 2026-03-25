@@ -1,0 +1,305 @@
+--- RNN Model ---
+it  shradh
+xenten ris
+virkhra ja
+xet tharma
+munel kthr
+bh shanat 
+waninahaqp
+ri  shosha
+neshenar d
+ul andrakk
+qukv chobh
+dhivi remt
+mandhi awa
+ranjen map
+nillani  h
+huma malib
+wal samdis
+pankh  mij
+qbeesa kar
+kil karei 
+ambhat jan
+bhatana  f
+fajia  tis
+xit ardik 
+za fer  ha
+za dhindhi
+yi  pahtin
+wangilkk b
+yatt khakb
+lewaviklhj
+din ihis  
+upta khazk
+g poulishe
+biwahu  di
+ev  ichira
+reshnamhin
+l  muraris
+bharmashiv
+dowal meir
+hartiti ko
+nilap  avt
+th rohilg 
+unkhan ghu
+ubekk bhan
+bh girata 
+tyan nirla
+hu puuyal 
+wauthika b
+quojri sun
+karuranpa 
+e  fasa dh
+fudona  sh
+pannishyap
+vik paupat
+pulzee  ja
+khunghev s
+pankkani  
+lerde  tha
+hasin  wag
+ani  aplat
+mal bhasma
+ni  masan 
+wanon khri
+mant kattb
+ghinit gee
+olt  vipri
+ghirco  uk
+shevi kuja
+kbrundisti
+kdindan de
+gumdak bha
+wannyazn p
+chathyeesh
+vytha shaz
+chewmarme 
+bhanchavin
+ripjasrona
+parwat  pa
+wanasan je
+xit bherma
+ill  saman
+ta skalshe
+rikan siet
+enjizer  a
+jeena didk
+gyeneshady
+lh  haisha
+fbhathak  
+ipchi chre
+pvahee  ph
+xivai dinj
+manshangan
+xitli kamb
+th sientwa
+ra qughana
+xibh khana
+mbhishwari
+vikrashcha
+twazthiri 
+ya sunalli
+
+--- BiLSTM Model ---
+dvrvojkpty
+azfnylbae 
+rhyobeaai 
+ea yjkoya 
+ekeu lloir
+ rxemnstvi
+wlqzrngff 
+hdahzosmo 
+ntpyktkkhu
+ny bpemrpa
+tyahdtkey 
+g ol kjezi
+lasqjwpnuk
+ghumoaukor
+uilaptbdde
+aivecfudra
+epdrlksyja
+ujo ocvour
+kymoqoakpa
+tkguhwwduo
+afbygoehla
+keaz gjuhr
+jizfephsdh
+idtkkshovi
+wlpodwojou
+isywmakuf 
+jorhhpglt 
+gdkujgjed 
+ygkbktzgku
+cnaharsr  
+eoooyboyi 
+nnczvddvur
+m mnddhoy 
+afcqwmbpku
+hotckoyrya
+edevry ogh
+pjrscz heh
+gayibmoldh
+ep rypcuch
+fahrqvkskh
+outoyi iis
+wduldeyuz 
+moimocphja
+zkkhvkabha
+osvaveema 
+ocyrwsiwra
+ymoy  uvla
+jmukaigtma
+ thouxwwir
+gchodawkyr
+mokejirobh
+iv fsmy ka
+g qoz cheh
+oblm moyoi
+fjeyijqivi
+akrgoopbra
+sh fgodwwr
+goysomogt 
+skn pefnoa
+r rxtuygoa
+adlydovlor
+goctmjual 
+uafugpohgu
+oygm  fzna
+yepwothber
+wntpdv ser
+caukhmolma
+v aedejwer
+siehityjdh
+twoygwozoh
+mygoot yeh
+qethsyboh 
+ugnjwyear 
+fol tgjjja
+eilpjggew 
+qqybzpgwra
+oyuplkpqo 
+idpbpjwgoe
+choadvigpa
+noynuqvmoe
+nrypvoitq 
+heblit gou
+udg rvk fa
+ezzfk soma
+h zesqbqor
+ohuaaxzfra
+ chpjbumhu
+ihhwefrxur
+dpggjhy pa
+xunmmahybh
+cffynoxewa
+uevsmoekna
+aueamssuzo
+uoutvrmoar
+fkkoo kxya
+ajnrwgnsoe
+euqwoekmt 
+vazkknoib 
+lwunseilor
+iqwiybwyla
+
+--- Attention Model ---
+nver  jivn
+deh  httuk
+dot  kgimo
+xipse  jip
+mmorjaonja
+val  venmo
+tikd  kkhh
+m  jipl  l
+eehdt  sun
+yhit tjit 
+m  upirari
+arsud kanm
+zni ginke 
+mothi shat
+pket chick
+jtey salme
+ghig fjaa 
+jevijgchiy
+zirik sin 
+dy boit  n
+khy kbolon
+wmsg notn 
+mut fanimy
+dt  chusgh
+weunkhuc k
+armha dhev
+dujndq  jo
+fkhi  fles
+wmel  vivn
+ur rdegshi
+cimmet deo
+ma  valoyh
+mub  suhm 
+zupshy  jj
+dikititdh 
+tuss jalis
+qshi jarot
+vi innelem
+savy hatmi
+qhal bkism
+ydek kuznh
+funar  deh
+ut kabshi 
+xyojkee  s
+gaopi  ocs
+sindinlenk
+dtkg tolli
+frdeonk bv
+or  irged 
+ul jest gi
+cunt  soit
+edjerjdid 
+unleot chs
+qhtr  irhb
+qshnhn  ns
+derdh  yab
+rar khharm
+ev dinnoin
+gtwon  zuv
+vi gidwe b
+zgep shald
+thy  qazmi
+viplevthf 
+lt sibmeen
+veyhwa  di
+wsuyh sint
+fmotees kv
+bhyt fothe
+cheyipkonn
+lewghy kab
+chapkel  s
+cslud dots
+od angen  
+shdh  ikbh
+xdaty bets
+jonvuli si
+yis sselli
+mlot  jika
+nn  ghairt
+woph sonmi
+jhikdevet 
+chog kbopr
+gep  yabli
+tot  iphiy
+meo  uun  
+fed  nhank
+fet ksor  
+jhithi  hu
+rorhrerat 
+vj  imande
+xhinberkt 
+nme shany 
+lel  lshsr
+yipi sesre
+chid zapan
+zipn  dogq
+thi song  
+xtodui ral
+unlud jabn
+l kumly  d
